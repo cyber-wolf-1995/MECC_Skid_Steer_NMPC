@@ -1,0 +1,8 @@
+prefix=/home/ssathe/MECC/mecc_22_rl_pid/install
+
+Name: mecc_rl_pp
+Description: Description of mecc_rl_pp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
